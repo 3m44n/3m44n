@@ -1,242 +1,95 @@
-<!-- ===================================================================== -->
-<!--                     NUR // ENIGMA — THE SILENT NODE                   -->
-<!--           Replace YOUR_GITHUB_USERNAME with your actual handle        -->
-<!-- ===================================================================== -->
-
 <div align="center">
 
   <br/>
 
-  <!-- ARABIC SALUTATION -->
-  <h2>
-    <samp>─── ٱلسَّلَامُ عَلَيْكُمْ ───</samp>
-  </h2>
-  <sub><i>Peace be upon you · Welcome to the quiet side of the machine</i></sub>
+  <!-- ═══════════════════ ARABIC SALUTATION ═══════════════════ -->
+  <h3>
+    ─── ⋆⋅ ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ ⋅⋆ ───
+  </h3>
+  <sub><i>𝑝𝑒𝑎𝑐𝑒 𝑏𝑒 𝑢𝑝𝑜𝑛 𝑦𝑜𝑢 &nbsp;·&nbsp; 𝑤𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑡ℎ𝑒 𝑣𝑜𝑖𝑑</i></sub>
 
   <br/><br/>
 
-  <!-- ENIGMATIC GRADIENT BANNER -->
-  <!-- Tip: Upload assets/enigma-hero.svg to your repo and swap the src below to "./assets/enigma-hero.svg" for the custom animated SVG version -->
-  <img src="https://capsule-render.vercel.app/api?type=Blur&height=200&color=0:090d16,50:111827,100:1e1b4b&text=N%20U%20R%20%20%2F%2F%20%20E%20N%20I%20G%20M%20A&fontColor=e2e8f0&fontSize=46&fontAlignY=46&desc=%E2%97%87%20%20M%20I%20N%20I%20M%20A%20L%20%20S%20Y%20S%20T%20E%20M%20S%20%20%C2%B7%20%20M%20A%20X%20I%20M%20U%20M%20%20C%20U%20R%20I%20O%20S%20I%20T%20Y%20%20%E2%97%87&descSize=13&descAlignY=68&descColor=7dcfff&stroke=7dcfff&strokeWidth=0" width="100%" alt="NUR // ENIGMA" />
+  <!-- ═══════════════════ ENIGMATIC BANNER ═══════════════════ -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:05070c,50:0c1220,100:151b30&text=3%20m%204%204%20n&fontColor=e2e8f0&fontSize=56&fontAlignY=44&desc=%F0%9D%9F%A5%F0%9D%94%AA%F0%9D%9F%A6%F0%9D%9F%A6%F0%9D%94%AB%20%20%E2%80%94%20%20%E1%B4%8D%C9%AA%C9%B4%C9%AA%E1%B4%8D%E1%B4%80%CA%9F%20s%CA%8Fs%E1%B4%9B%E1%B4%87%E1%B4%8Ds%20%C2%B7%20%E1%B4%8D%E1%B4%80x%C9%AA%E1%B4%8D%E1%B4%9C%E1%B4%8D%20%E1%B4%84%E1%B4%9C%CA%80%C9%AA%E1%B4%8Fs%C9%AA%E1%B4%9B%CA%8F&descSize=15&descAlignY=68&descColor=7dcfff&stroke=7dcfff&strokeWidth=1" width="100%" alt="3m44n" />
 
-  <!-- WHISPER TYPING LINE -->
+  <!-- ═══════════════════ STYLIZED TYPING LINE ═══════════════════ -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=7DCFFF&center=true&vCenter=true&multiline=false&width=680&height=28&lines=arch+linux+%C2%B7+hyprland+%C2%B7+wayland+%C2%B7+low-level+minimalism;repurposing+forgotten+silicon+into+arm64+linux+nodes;physics+%26+mathematics+%C2%B7+iit-jee+2027+%C2%B7+first+principles;silence+the+noise.+understand+the+kernel." alt="Enigma Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3800&pause=1400&color=7DCFFF&center=true&vCenter=true&multiline=false&width=650&height=30&lines=%E1%B4%80%CA%80%E1%B4%84%CA%9C+%CA%9F%C9%AA%C9%B4%E1%B4%9Cx+%C2%B7+%CA%9C%CA%8F%E1%B4%98%CA%80%CA%9F%E1%B4%80%C9%B4%E1%B4%85+%C2%B7+%E1%B4%A1%E1%B4%80%CA%8F%CA%9F%E1%B4%80%C9%B4%E1%B4%85;%CA%80%E1%B4%87%E1%B4%98%E1%B4%9C%CA%80%E1%B4%98%E1%B4%8Fs%C9%AA%C9%B4%C9%A2+s%C9%AA%CA%9F%C9%AA%E1%B4%84%E1%B4%8F%C9%B4+%C9%AA%C9%B4%E1%B4%9B%E1%B4%8F+%E1%B4%80%CA%80%E1%B4%8D64+s%E1%B4%87%CA%80%E1%B4%A0%E1%B4%87%CA%80s;%E1%B4%98%CA%9C%CA%8Fs%C9%AA%E1%B4%84s+%C2%B7+%E1%B4%8D%E1%B4%80%E1%B4%9B%CA%9C%E1%B4%87%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%84s+%C2%B7+%C9%AA%C9%AA%E1%B4%9B--%CA%9A%E1%B4%87%E1%B4%87+2027" alt="Typing SVG" />
   </a>
 
-</div>
-
-<br/>
-
----
-
-<!-- ===================================================================== -->
-<!--                   0x01 // THE ARCH LINUX MONOLITH                     -->
-<!-- ===================================================================== -->
-
-<!-- Tip: Upload assets/arch-monolith.svg and use <img src="./assets/arch-monolith.svg" width="100%" /> for the full animated orbital HUD -->
-
-<table align="center">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<br/>
-
-<!-- BIG ARCH LINUX EMBLEM -->
-<img src="https://cdn.simpleicons.org/archlinux/7dcfff" width="175" height="175" alt="Arch Linux" />
-
-<br/><br/>
-
-<samp><b>ARCH LINUX // HYPRLAND</b></samp><br/>
-<sub><code>x86_64</code> · <code>Wayland</code> · <code>fish</code></sub>
-
-<br/>
-
-</td>
-<td width="62%" valign="middle">
-
-```yaml
-                nur@enigma
-                ──────────────────────────────
-                os       ▸  Arch Linux (x86_64)
-                wm       ▸  Hyprland (Wayland)
-                shell    ▸  fish
-                lab      ▸  Redmi 8 Server (aarch64)
-                mesh     ▸  Tailscale · OpenSSH · Docker
-                pursuit  ▸  Physics & Math (JEE 2027)
-                ethos    ▸  Zero bloat. Pure signal.
-```
-
-> *"I don't treat computers as opaque appliances. I strip them down to the bootloader, the kernel, and the raw laws of physics that make silicon think."*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================================================================== -->
-<!--                   0x02 // THREE QUIET PILLARS                         -->
-<!-- ===================================================================== -->
-
-<div align="center">
-  <samp>─── 0x01 // TRIAD OF FOCUS ───</samp>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<br/>
-<img src="https://cdn.simpleicons.org/wayland/bb9af7" width="36" height="36" alt="Wayland" />
-<br/><br/>
-<samp><b>I. THE WORKSTATION</b></samp>
-<br/>
-<sub><code>Arch</code> · <code>Hyprland</code> · <code>Web</code></sub>
-<br/><br/>
-<sub>Crafting distraction-free Wayland environments, automated shell workflows, and clean, dark-themed web interfaces.</sub>
-<br/><br/>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<br/>
-<img src="https://cdn.simpleicons.org/arm/7dcfff" width="36" height="36" alt="ARM64" />
-<br/><br/>
-<samp><b>II. THE POCKET NODE</b></samp>
-<br/>
-<sub><code>aarch64</code> · <code>postmarketOS</code> · <code>Docker</code></sub>
-<br/><br/>
-<sub>Transforming a discarded Xiaomi Redmi 8 into a silent, self-hosted ARM64 Linux server running Jellyfin & rclone over Tailscale.</sub>
-<br/><br/>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<br/>
-<img src="https://cdn.simpleicons.org/wolframmathematica/7aa2f7" width="36" height="36" alt="Science" />
-<br/><br/>
-<samp><b>III. THE EQUATION</b></samp>
-<br/>
-<sub><code>Physics</code> · <code>Math</code> · <code>JEE 2027</code></sub>
-<br/><br/>
-<sub>Exploring classical mechanics, electromagnetism, calculus, and determinism through first-principles inquiry.</sub>
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================================================================== -->
-<!--               0x03 // MINIMAL INSTRUMENTATION DOCK                    -->
-<!-- ===================================================================== -->
-
-<div align="center">
-  <samp>─── 0x02 // CORE INSTRUMENTS ───</samp>
   <br/><br/>
 
-  <!-- Sleek, eye-soothing icon row instead of a noisy wall of 25 text badges -->
+  <!-- ═══════════════════ GIANT ARCH LINUX CENTERPIECE ═══════════════════ -->
+  <img src="https://cdn.simpleicons.org/archlinux/7dcfff" width="210" height="210" alt="Arch Linux" />
+
+  <br/><br/>
+
+  <h2>
+    <code>𝟹 𝚖 𝟺 𝟺 𝚗</code> &nbsp;//&nbsp; 𝟥𝔪𝟦𝟦𝔫
+  </h2>
+  <sub>
+    ᴀʀᴄʜ ʟɪɴᴜx <code>x86_64</code> &nbsp;✦&nbsp; ʜʏᴘʀʟᴀɴᴅ &nbsp;✦&nbsp; ᴀʀᴍ𝟼𝟺 ʜᴏᴍᴇʟᴀʙ
+  </sub>
+
+  <br/><br/>
+
+  <!-- ═══════════════════ WHISPER DOSSIER ═══════════════════ -->
+  <table>
+    <tr>
+      <td align="left">
+        <pre>
+   <b>𝟹𝚖𝟺𝟺𝚗@𝚊𝚛𝚌𝚑</b>
+   ─────────────────────────────
+   <b>os</b>      ▸  <i>Arch Linux · Hyprland (Wayland) · fish</i>
+   <b>node</b>    ▸  <i>Redmi 8 ARM64 Server · postmarketOS · Alpine</i>
+   <b>stack</b>   ▸  <i>Docker · Tailscale · Jellyfin · rclone · Web</i>
+   <b>focus</b>   ▸  <i>Physics &amp; Mathematics · IIT-JEE 2027</i>
+   <b>canon</b>   ▸  <i>Monster · Vagabond · Dune · Interstellar</i></pre>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- ═══════════════════ MINIMAL ICON DOCK ═══════════════════ -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,git,html,css,js&theme=dark&perline=8" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,git,html,css,js&theme=dark&perline=8" alt="Tech Icons" />
   </p>
 
-  <samp>
-    <sub>
-      <code>Hyprland</code> &nbsp;·&nbsp;
-      <code>Wayland</code> &nbsp;·&nbsp;
-      <code>fish</code> &nbsp;·&nbsp;
-      <code>postmarketOS</code> &nbsp;·&nbsp;
-      <code>Alpine</code> &nbsp;·&nbsp;
-      <code>Tailscale</code> &nbsp;·&nbsp;
-      <code>Jellyfin</code> &nbsp;·&nbsp;
-      <code>rclone</code>
-    </sub>
-  </samp>
-</div>
+  <br/>
 
-<br/><br/>
-
-<!-- ===================================================================== -->
-<!--                   0x04 // TELEMETRY & PULSE                           -->
-<!-- ===================================================================== -->
-
-<div align="center">
-  <samp>─── 0x03 // TELEMETRY ───</samp>
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=090d16&title_color=7dcfff&text_color=94a3b8&icon_color=bb9af7&border_color=1e293b&hide_border=false&hide_rank=false" height="155" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=090d16&title_color=7dcfff&text_color=94a3b8&border_color=1e293b&hide_border=false&langs_count=5" height="155" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- ===================================================================== -->
-<!--            0x05 // EXPANDABLE DEEP ARCHIVE (ZERO CLUTTER)             -->
-<!-- ===================================================================== -->
-
-<details>
-<summary align="center"><samp><b>[ + ] DECRYPT SYSTEM TOPOLOGY & COGNITIVE ARCHIVES</b></samp></summary>
-<br/>
-
-<div align="center">
-
-<!-- Tip: Upload assets/dual-node.svg and replace the block below with <img src="./assets/dual-node.svg" width="100%" /> -->
-
-```asciidoc
-  ┌──────────────────────────────┐                     ┌──────────────────────────────┐
-  │  ARCH WORKSTATION (x86_64)   │ ═══ WireGuard ════► │   REDMI 8 SERVER (aarch64)   │
-  │  Hyprland · Wayland · fish   │     Tailscale       │  postmarketOS · Docker · SSH │
-  └──────────────────────────────┘                     └──────────────────────────────┘
-```
-
-<br/>
+  <!-- ═══════════════════ WAVE EQUATION ═══════════════════ -->
 
 $$i\hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
 
-<br/>
+  <sub><i>"𝑠𝑡𝑟𝑖𝑝 𝑡ℎ𝑒 𝑚𝑎𝑐ℎ𝑖𝑛𝑒 𝑑𝑜𝑤𝑛 𝑡𝑜 𝑡ℎ𝑒 𝑘𝑒𝑟𝑛𝑒𝑙, 𝑎𝑛𝑑 𝑟𝑒𝑎𝑙𝑖𝑡𝑦 𝑑𝑜𝑤𝑛 𝑡𝑜 𝑓𝑖𝑟𝑠𝑡 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠."</i></sub>
 
-| <samp>DOMAIN</samp> | <samp>RESONANCE</samp> |
-| :--- | :--- |
-| **Repositories** | `enigma-dotfiles` · `arm64-pocket-server` · `web-experiments` · `sys-automation` |
-| **Narratives** | *Monster (Naoki Urasawa)* · *Vagabond (Takehiko Inoue)* · *Death Note* |
-| **Cinema** | *Interstellar* · *Dune* |
-| **Philosophy** | Strategic minimalism · Determinism & agency · First-principles thinking |
+  <br/><br/><br/>
 
-</div>
-
-</details>
-
-<br/><br/>
-
-<!-- ===================================================================== -->
-<!--                    0x06 // SILENT TRANSMISSION                        -->
-<!-- ===================================================================== -->
-
-<div align="center">
-
-  <a href="mailto:notximan@proton.me">
-    <img src="https://img.shields.io/badge/PROTON-notximan%40proton.me-090d16?style=flat-square&labelColor=111827&logo=protonmail&logoColor=bb9af7&color=090d16" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/i.not_iman">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%40i.not__iman-090d16?style=flat-square&labelColor=111827&logo=instagram&logoColor=7dcfff&color=090d16" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SIGNAL&color=1e293b&style=flat-square" alt="Views" />
+  <!-- ═══════════════════ FLOATING DARK TELEMETRY ═══════════════════ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=05070c&title_color=7dcfff&text_color=94a3b8&icon_color=bb9af7&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=05070c&title_color=7dcfff&text_color=94a3b8&hide_border=true&langs_count=5" height="150" alt="Languages" />
 
   <br/><br/>
 
-  <samp>
-    <sub>
-      <code>[ EOF // NUR · ENIGMA ]</code> &nbsp;──&nbsp; <i>في أمان الله</i>
-    </sub>
-  </samp>
+  <!-- ═══════════════════ CHANNELS & FOOTER ═══════════════════ -->
+  <p align="center">
+    <a href="mailto:notximan@proton.me">
+      <img src="https://img.shields.io/badge/ᴘʀᴏᴛᴏɴ-notximan%40proton.me-05070c?style=for-the-badge&labelColor=0c1220&logo=protonmail&logoColor=bb9af7" alt="ProtonMail" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/i.not_iman">
+      <img src="https://img.shields.io/badge/ɪɴsᴛᴀɢʀᴀᴍ-%40i.not__iman-05070c?style=for-the-badge&labelColor=0c1220&logo=instagram&logoColor=7dcfff" alt="Instagram" />
+    </a>
+  </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:090d16,50:111827,100:1e1b4b&section=footer" width="100%" alt="Footer" />
+  <br/>
+
+  <sub>
+    <code>[ 𝟹𝚖𝟺𝟺𝚗 // 𝙴𝙾𝙵 ]</code> &nbsp;·&nbsp; <i>في أمان الله</i>
+  </sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:05070c,50:0c1220,100:151b30&section=footer" width="100%" alt="Footer" />
 
 </div>
