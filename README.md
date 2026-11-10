@@ -1,4 +1,3 @@
-```markdown
 <!--
   3m44n // ENIGMA
   GitHub Profile README
@@ -28,7 +27,7 @@
   [![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=7dcfff)](https://archlinux.org)
   [![Instagram](https://img.shields.io/badge/Instagram-%40i.not__iman-0d1117?style=for-the-badge&logo=instagram&logoColor=bb9af7)](https://instagram.com/i.not_iman)
   [![Email](https://img.shields.io/badge/Email-Proton-0d1117?style=for-the-badge&logo=protonmail&logoColor=7dcfff)](mailto:notximan@proton.me)
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=0c1220&style=for-the-badge&labelColor=05070c)
+  ![Profile Views](https://komarev.com/ghpvc/?username=3m44n&label=VISITORS&color=0c1220&style=for-the-badge&labelColor=05070c)
 
 </div>
 
@@ -165,4 +164,3 @@ The relationship between mathematics, physical reality, computation and the unde
   <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:05070c,50:0c1220,100:151b30&section=footer" width="100%" />
 
 </div>
-```
