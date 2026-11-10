@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 670" width="900" height="670" role="img" aria-label="Domains of interest">
+<title>Domains of interest</title><desc>Five panels with slowly turning rotor dials: Linux and systems, self-hosting and infrastructure, development and automation, science and academics, minds and stories.</desc>
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,monospace}.sans{font-family:'Inter','Helvetica Neue','Segoe UI',system-ui,-apple-system,'Noto Sans',sans-serif}.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Noto Serif',serif}.ar{font-family:'Amiri','Noto Naskh Arabic','Scheherazade New','Traditional Arabic','Geeza Pro','Segoe UI','DejaVu Sans',serif}.b{font-weight:700}@keyframes cw{to{transform:rotate(360deg)}}@keyframes ccw{to{transform:rotate(-360deg)}}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.1}50%{opacity:.7}}@keyframes fi{from{opacity:0}to{opacity:1}}.bl{animation:bl 1.1s steps(1,end) infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".75" y="0.75" width="898.5" height="124.5" rx="14" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<g transform="translate(76 63.0)">
+<circle r="47" fill="none" stroke="#cdbfff" stroke-opacity=".26"/>
+<g style="animation:cw 70s linear infinite"><circle r="41" fill="none" stroke="#cdbfff" stroke-opacity=".34" stroke-width="9" stroke-dasharray="3.2 3.956"/></g>
+<circle r="32" fill="#171421" stroke="#cdbfff" stroke-opacity=".4"/>
+<path d="M0,-49 L-3.6,-56 H3.6 Z" fill="#cdbfff"/>
+<text class="mono" x="0" y="5.8" font-size="17" text-anchor="middle" fill="#cdbfff">❯_</text></g>
+<rect x="146" y="26" width="1" height="74" fill="#2a2538"/>
+<text class="sans" x="170" y="36" font-size="18" font-weight="300" fill="#f1ecfb" letter-spacing=".3">Linux &amp; systems</text>
+<text class="serif" x="170" y="62" font-size="13.5" fill="#b9b2cc">Arch is the daily driver: Hyprland on Wayland, fish in the shell, every config bent into shape by hand.</text>
+<text class="serif" x="170" y="82" font-size="13.5" fill="#b9b2cc">I like things lean, fast, and understood all the way down to the bootloader.</text>
+<rect x="170.0" y="94" width="88.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="214.0" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="66.0" lengthAdjust="spacing">arch linux</text>
+<rect x="266.0" y="94" width="74.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="303.4" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="52.8" lengthAdjust="spacing">hyprland</text>
+<rect x="348.8" y="94" width="68.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="382.9" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="46.2" lengthAdjust="spacing">wayland</text>
+<rect x="425.0" y="94" width="48.4" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="449.2" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="26.4" lengthAdjust="spacing">fish</text>
+<rect x="481.4" y="94" width="121.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="541.9" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="99.0" lengthAdjust="spacing">shell scripting</text>
+<rect x="610.4" y="94" width="114.4" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="667.6" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="92.4" lengthAdjust="spacing">kernels &amp; boot</text>
+<rect x="732.8" y="94" width="74.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="770.2" y="109" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="52.8" lengthAdjust="spacing">sysadmin</text>
+<rect x=".75" y="136.75" width="898.5" height="124.5" rx="14" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<g transform="translate(76 199.0)">
+<circle r="47" fill="none" stroke="#cdbfff" stroke-opacity=".26"/>
+<g style="animation:ccw 87s linear infinite"><circle r="41" fill="none" stroke="#cdbfff" stroke-opacity=".34" stroke-width="9" stroke-dasharray="3.2 3.956"/></g>
+<circle r="32" fill="#171421" stroke="#cdbfff" stroke-opacity=".4"/>
+<path d="M0,-49 L-3.6,-56 H3.6 Z" fill="#cdbfff"/>
+<text class="mono" x="0" y="8.2" font-size="24" text-anchor="middle" fill="#cdbfff">⇄</text></g>
+<rect x="146" y="162" width="1" height="74" fill="#2a2538"/>
+<text class="sans" x="170" y="172" font-size="18" font-weight="300" fill="#f1ecfb" letter-spacing=".3">Self-hosting &amp; infrastructure</text>
+<text class="serif" x="170" y="198" font-size="13.5" fill="#b9b2cc">A Xiaomi Redmi 8, retired from phone duty and reborn as an ARM64 Linux server.</text>
+<text class="serif" x="170" y="218" font-size="13.5" fill="#b9b2cc">Old hardware is just potential nobody has bothered to unlock yet.</text>
+<rect x="170.0" y="230" width="101.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="220.6" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="79.2" lengthAdjust="spacing">postmarketOS</text>
+<rect x="279.2" y="230" width="61.6" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="310.0" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="39.6" lengthAdjust="spacing">alpine</text>
+<rect x="348.8" y="230" width="48.4" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="373.0" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="26.4" lengthAdjust="spacing">nura</text>
+<rect x="405.2" y="230" width="61.6" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="436.0" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="39.6" lengthAdjust="spacing">docker</text>
+<rect x="474.8" y="230" width="74.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="512.2" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="52.8" lengthAdjust="spacing">jellyfin</text>
+<rect x="557.6" y="230" width="61.6" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="588.4" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="39.6" lengthAdjust="spacing">rclone</text>
+<rect x="627.2" y="230" width="81.4" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="667.9" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="59.4" lengthAdjust="spacing">tailscale</text>
+<rect x="716.6" y="230" width="41.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="737.5" y="245" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="19.8" lengthAdjust="spacing">ssh</text>
+<rect x=".75" y="272.75" width="898.5" height="124.5" rx="14" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<g transform="translate(76 335.0)">
+<circle r="47" fill="none" stroke="#cdbfff" stroke-opacity=".26"/>
+<g style="animation:cw 104s linear infinite"><circle r="41" fill="none" stroke="#cdbfff" stroke-opacity=".34" stroke-width="9" stroke-dasharray="3.2 3.956"/></g>
+<circle r="32" fill="#171421" stroke="#cdbfff" stroke-opacity=".4"/>
+<path d="M0,-49 L-3.6,-56 H3.6 Z" fill="#cdbfff"/>
+<text class="mono" x="0" y="5.8" font-size="17" text-anchor="middle" fill="#cdbfff">&lt;/&gt;</text></g>
+<rect x="146" y="298" width="1" height="74" fill="#2a2538"/>
+<text class="sans" x="170" y="308" font-size="18" font-weight="300" fill="#f1ecfb" letter-spacing=".3">Development &amp; automation</text>
+<text class="serif" x="170" y="334" font-size="13.5" fill="#b9b2cc">Websites, bots, scripts, and the small machinery that keeps running while I sleep.</text>
+<text class="serif" x="170" y="354" font-size="13.5" fill="#b9b2cc">Deployment, hosting, and open-source experiments, one repository at a time.</text>
+<rect x="170.0" y="366" width="68.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="204.1" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="46.2" lengthAdjust="spacing">web dev</text>
+<rect x="246.2" y="366" width="48.4" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="270.4" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="26.4" lengthAdjust="spacing">bots</text>
+<rect x="302.6" y="366" width="68.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="336.7" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="46.2" lengthAdjust="spacing">scripts</text>
+<rect x="378.8" y="366" width="88.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="422.8" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="66.0" lengthAdjust="spacing">deployment</text>
+<rect x="474.8" y="366" width="68.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="508.9" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="46.2" lengthAdjust="spacing">hosting</text>
+<rect x="551.0" y="366" width="94.6" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="598.3" y="381" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="72.6" lengthAdjust="spacing">open source</text>
+<rect x=".75" y="408.75" width="898.5" height="124.5" rx="14" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<g transform="translate(76 471.0)">
+<circle r="47" fill="none" stroke="#cdbfff" stroke-opacity=".26"/>
+<g style="animation:ccw 121s linear infinite"><circle r="41" fill="none" stroke="#cdbfff" stroke-opacity=".34" stroke-width="9" stroke-dasharray="3.2 3.956"/></g>
+<circle r="32" fill="#171421" stroke="#cdbfff" stroke-opacity=".4"/>
+<path d="M0,-49 L-3.6,-56 H3.6 Z" fill="#cdbfff"/>
+<text class="serif" x="0" y="10.2" font-size="30" text-anchor="middle" fill="#cdbfff">∫</text></g>
+<rect x="146" y="434" width="1" height="74" fill="#2a2538"/>
+<text class="sans" x="170" y="444" font-size="18" font-weight="300" fill="#f1ecfb" letter-spacing=".3">Science &amp; academics</text>
+<text class="serif" x="170" y="470" font-size="13.5" fill="#b9b2cc">IIT-JEE Main 2027 is the mission. Physics and mathematics are the pull:</text>
+<text class="serif" x="170" y="490" font-size="13.5" fill="#b9b2cc">reasoning that holds up no matter who is looking.</text>
+<rect x="170.0" y="502" width="68.2" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="204.1" y="517" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="46.2" lengthAdjust="spacing">physics</text>
+<rect x="246.2" y="502" width="94.6" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="293.5" y="517" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="72.6" lengthAdjust="spacing">mathematics</text>
+<rect x="348.8" y="502" width="107.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="402.7" y="517" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="85.8" lengthAdjust="spacing">jee main 2027</text>
+<rect x="464.6" y="502" width="154.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="541.6" y="517" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="132.0" lengthAdjust="spacing">scientific reasoning</text>
+<rect x=".75" y="544.75" width="898.5" height="124.5" rx="14" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<g transform="translate(76 607.0)">
+<circle r="47" fill="none" stroke="#cdbfff" stroke-opacity=".26"/>
+<g style="animation:cw 138s linear infinite"><circle r="41" fill="none" stroke="#cdbfff" stroke-opacity=".34" stroke-width="9" stroke-dasharray="3.2 3.956"/></g>
+<circle r="32" fill="#171421" stroke="#cdbfff" stroke-opacity=".4"/>
+<path d="M0,-49 L-3.6,-56 H3.6 Z" fill="#cdbfff"/>
+<text class="serif" x="0" y="9.5" font-size="28" text-anchor="middle" fill="#cdbfff">Ψ</text></g>
+<rect x="146" y="570" width="1" height="74" fill="#2a2538"/>
+<text class="sans" x="170" y="580" font-size="18" font-weight="300" fill="#f1ecfb" letter-spacing=".3">Minds &amp; stories</text>
+<text class="serif" x="170" y="606" font-size="13.5" fill="#b9b2cc">Psychological storytelling, strategy, philosophy. Narratives where every move is planned</text>
+<text class="serif" x="170" y="626" font-size="13.5" fill="#b9b2cc">three moves ahead: Monster, Death Note, Interstellar, Inception, Breaking Bad.</text>
+<rect x="170.0" y="638" width="74.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="207.4" y="653" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="52.8" lengthAdjust="spacing">strategy</text>
+<rect x="252.8" y="638" width="88.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="296.8" y="653" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="66.0" lengthAdjust="spacing">philosophy</text>
+<rect x="348.8" y="638" width="88.0" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="392.8" y="653" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="66.0" lengthAdjust="spacing">psychology</text>
+<rect x="444.8" y="638" width="107.8" height="22" rx="11" fill="#171421" stroke="#3a3350"/><text x="498.7" y="653" font-size="11" text-anchor="middle" fill="#cdbfff" textLength="85.8" lengthAdjust="spacing">deep thinking</text>
+</svg>

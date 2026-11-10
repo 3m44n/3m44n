@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 46" width="900" height="46" role="img" aria-label="cd ~/enigma/handshake">
+<title>cd ~/enigma/handshake</title><desc>Section marker: ~/enigma/handshake</desc>
+<defs><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#cdbfff" stop-opacity=".35"/><stop offset="1" stop-color="#cdbfff" stop-opacity="0"/></linearGradient></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,monospace}.sans{font-family:'Inter','Helvetica Neue','Segoe UI',system-ui,-apple-system,'Noto Sans',sans-serif}.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Noto Serif',serif}.ar{font-family:'Amiri','Noto Naskh Arabic','Scheherazade New','Traditional Arabic','Geeza Pro','Segoe UI','DejaVu Sans',serif}.b{font-weight:700}@keyframes cw{to{transform:rotate(360deg)}}@keyframes ccw{to{transform:rotate(-360deg)}}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.1}50%{opacity:.7}}@keyframes fi{from{opacity:0}to{opacity:1}}.bl{animation:bl 1.1s steps(1,end) infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+
+<rect x=".75" y=".75" width="898.5" height="44.5" rx="12" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<text x="22" y="28" font-size="14" fill="#cdbfff">❯</text>
+<text x="38.8" y="28" font-size="14" fill="#7cc4ee" textLength="16.8" lengthAdjust="spacing">cd</text>
+<text x="64.0" y="28" font-size="14" fill="#e7e1f2" textLength="151.2" lengthAdjust="spacing">~/enigma/handshake</text>
+<rect x="233.2" y="22.5" width="526.4" height="1" fill="url(#hl)"/>
+<text x="876" y="27" font-size="11" fill="#5b566b" text-anchor="end" letter-spacing=".4">open a channel</text>
+</svg>

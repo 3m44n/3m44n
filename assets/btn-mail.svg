@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 78" width="440" height="78" role="img" aria-label="Email 3m44n">
+<title>Email 3m44n</title><desc>Contact button: notximan@proton.me</desc>
+<defs></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','SF Mono',ui-monospace,'DejaVu Sans Mono',Menlo,Consolas,monospace}.sans{font-family:'Inter','Helvetica Neue','Segoe UI',system-ui,-apple-system,'Noto Sans',sans-serif}.serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Noto Serif',serif}.ar{font-family:'Amiri','Noto Naskh Arabic','Scheherazade New','Traditional Arabic','Geeza Pro','Segoe UI','DejaVu Sans',serif}.b{font-weight:700}@keyframes cw{to{transform:rotate(360deg)}}@keyframes ccw{to{transform:rotate(-360deg)}}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes tw{0%,100%{opacity:.1}50%{opacity:.7}}@keyframes fi{from{opacity:0}to{opacity:1}}.bl{animation:bl 1.1s steps(1,end) infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}.tl{stroke-dasharray:90 910;animation:tl 8s linear infinite}@keyframes tl{to{stroke-dashoffset:-1000}}</style>
+
+<path d="M14.75,0.75 H425.25 A14,14 0 0 1 439.25,14.75 V63.25 A14,14 0 0 1 425.25,77.25 H14.75 A14,14 0 0 1 0.75,63.25 V14.75 A14,14 0 0 1 14.75,0.75 Z" fill="#100e18" stroke="#2a2538" stroke-width="1.5"/>
+<path class="tl" d="M14.75,0.75 H425.25 A14,14 0 0 1 439.25,14.75 V63.25 A14,14 0 0 1 425.25,77.25 H14.75 A14,14 0 0 1 0.75,63.25 V14.75 A14,14 0 0 1 14.75,0.75 Z" pathLength="1000" fill="none" stroke="#7cc4ee" stroke-width="1.8" stroke-linecap="round"/>
+<g transform="translate(28 25)"><rect x="0" y="3" width="30" height="22" rx="4" fill="none" stroke="#cdbfff" stroke-width="1.8"/><path d="M2,7 L15,17 L28,7" fill="none" stroke="#cdbfff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="82" y="34" font-size="11" fill="#8e88a0" letter-spacing=".6">email, proton</text>
+<text x="82" y="58" font-size="16" fill="#e7e1f2" textLength="172.8" lengthAdjust="spacing">notximan@proton.me</text>
+</svg>
