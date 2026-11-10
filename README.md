@@ -1,166 +1,59 @@
 <!--
   3m44n // ENIGMA
-  GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME before publishing.
+
+  Every panel on this page is a hand-built SVG that lives in /assets.
+  Edit the text inside them, or regenerate them, and the page follows.
+
+  lbh ernq gur fbhepr. jr jbhyq trg nybat. fnynnz.
+  (rot13, in case the rotor ring didn't give it away)
 -->
 
-<div align="center">
-
-  <br>
-
-  <sub>─── ⋆⋅ ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ ⋅⋆ ───</sub>
-
-  <br>
-
-  <i>peace be upon you · welcome to the void</i>
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070c,50:0c1220,100:151b30&text=3%20m%204%204%20n&fontColor=e2e8f0&fontSize=58&fontAlignY=42&desc=E%20N%20I%20G%20M%20A%20%20%E2%80%A2%20%20L%20I%20N%20U%20X%20%20%E2%80%A2%20%20S%20Y%20S%20T%20E%20M%20S&descSize=14&descAlignY=68&descColor=7dcfff&stroke=7dcfff&strokeWidth=1" width="100%" />
-
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=7DCFFF&center=true&vCenter=true&width=700&height=30&lines=%3E+Arch+Linux+%C2%B7+Hyprland+%C2%B7+Wayland;%3E+Repurposing+old+hardware+into+ARM64+servers;%3E+Linux+systems+%C2%B7+Self-hosting+%C2%B7+Automation;%3E+Physics+%C2%B7+Mathematics+%C2%B7+IIT-JEE+2027;%3E+Curious+by+default.+Minimal+by+design." alt="Typing animation" />
-
-  <br><br>
-
-  [![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=7dcfff)](https://archlinux.org)
-  [![Instagram](https://img.shields.io/badge/Instagram-%40i.not__iman-0d1117?style=for-the-badge&logo=instagram&logoColor=bb9af7)](https://instagram.com/i.not_iman)
-  [![Email](https://img.shields.io/badge/Email-Proton-0d1117?style=for-the-badge&logo=protonmail&logoColor=7dcfff)](mailto:notximan@proton.me)
-  ![Profile Views](https://komarev.com/ghpvc/?username=3m44n&label=VISITORS&color=0c1220&style=for-the-badge&labelColor=05070c)
-
-</div>
-
----
-
-## `01` — SYSTEM IDENTITY
-
-```text
-       3m44n@archlinux ~ $ fastfetch
-
-       ┌──────────────────────────────────────────┐
-       │              SYSTEM INFO                 │
-       └──────────────────────────────────────────┘
-
-       USER       : 3m44n
-       OS         : Arch Linux x86_64
-       WM         : Hyprland / Wayland
-       SHELL      : fish
-       TERMINAL   : foot
-
-       HOMELAB    : Redmi 8 / ARM64 experiments
-       LINUX      : postmarketOS / Alpine
-       SERVICES   : Docker / Jellyfin / rclone
-       NETWORK    : Tailscale / SSH
-
-       FOCUS      : Linux / Systems / Web / Automation
-       STUDY      : Physics / Mathematics / JEE 2027
-
-       STATUS     : Exploring the unknown.
-```
-
-## `02` — THE OPERATOR
-
-An enthusiast of **Linux systems, unconventional hardware and first-principles thinking.**
-
-I enjoy understanding how things work beneath the surface — from kernel-level details and system configuration to networking, self-hosted infrastructure and web development.
-
-My approach is simple:
-
-- Understand before automating.
-- Optimize before upgrading.
-- Build before depending.
-- Keep systems minimal.
-
-## `03` — CURRENT EXPERIMENTS
-
-| Domain | Interests |
-|:---|:---|
-| `01 / Linux` | Arch, Hyprland, Wayland, system administration |
-| `02 / ARM64` | Turning an old Redmi 8 into a Linux server |
-| `03 / Infrastructure` | Docker, self-hosting, Jellyfin, rclone |
-| `04 / Networking` | Tailscale, SSH, remote access |
-| `05 / Development` | Web development, scripts, bots, automation |
-| `06 / Science` | Physics, mathematics, computational thinking |
-
-## `04` — TOOLCHAIN
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git,html,css,js&theme=dark&perline=7" alt="Technology stack" />
-
-  <br><br>
-
-  <sub>ENVIRONMENT</sub>
-
-  `Hyprland` · `Wayland` · `fish` · `foot`
-
-  <sub>INFRASTRUCTURE</sub>
-
-  `Docker` · `Tailscale` · `Jellyfin` · `rclone`
-
-</div>
-
-## `05` — BEYOND THE TERMINAL
-
-**Academic pursuit**
-
-IIT-JEE 2027 · Physics · Mathematics
-
-**A few things that occupy my mind**
-
-`Monster` · `Vagabond` · `Death Note` · `Dune` · `Interstellar`
-
-**An ongoing fascination**
-
-The relationship between mathematics, physical reality, computation and the underlying structure of things.
-
-<br>
-
-<div align="center">
-
-  $$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t)
-  =\hat{H}\Psi(\mathbf{r},t)$$
-
-  <br>
-
-  <i>"Strip the machine down to the kernel, and reality down to first principles."</i>
-
-</div>
-
----
-
-## `06` — GITHUB TELEMETRY
-
-<div align="center">
-
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=05070c&title_color=7dcfff&text_color=94a3b8&icon_color=bb9af7&rank_icon=percentile" alt="GitHub statistics" />
-
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=05070c&title_color=7dcfff&text_color=94a3b8&langs_count=6" alt="Most used languages" />
-
-</div>
-
----
-
-<div align="center">
-
-  <sub>HAVE A PROJECT, AN IDEA OR AN INTERESTING PROBLEM?</sub>
-
-  <br><br>
-
-  [![Instagram](https://img.shields.io/badge/INSTAGRAM-@i.not__iman-0c1220?style=flat-square&logo=instagram&logoColor=bb9af7)](https://instagram.com/i.not_iman)
-  [![Email](https://img.shields.io/badge/PROTON_MAIL-CONTACT-0c1220?style=flat-square&logo=protonmail&logoColor=7dcfff)](mailto:notximan@proton.me)
-
-  <br><br>
-
-  <sub>「 3m44n // ENIGMA 」</sub>
-
-  <br>
-
-  <i>في أمان الله</i>
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:05070c,50:0c1220,100:151b30&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <img src="assets/header.svg" alt="السلام عليكم — 3m44n, ENIGMA. An Enigma rotor ring turning around the Arch Linux logo." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/bar-session.svg" alt="cd ~/enigma/session" width="100%"><br>
+  <img src="assets/terminal.svg" alt="fish terminal on Hyprland: fastfetch with the Arch logo, systemctl status 3m44n.service, and an idle prompt." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/bar-subject.svg" alt="cd ~/enigma/subject" width="100%"><br>
+  <img src="assets/dossier.svg" alt="Subject file. Alias 3m44n, designation ENIGMA, systems tinkerer and aspiring web developer, IIT-JEE Main 2027, social: disabled, curiosity: maximum." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/bar-domains.svg" alt="cd ~/enigma/domains" width="100%"><br>
+  <img src="assets/domains.svg" alt="Linux and systems. Self-hosting and infrastructure. Development and automation. Science and academics. Minds and stories." width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/arch_linux-171421?style=flat-square&logo=archlinux&logoColor=1793d1" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/wayland-171421?style=flat-square&logo=wayland&logoColor=cdbfff" alt="Wayland">
+  <img src="https://img.shields.io/badge/bash-171421?style=flat-square&logo=gnubash&logoColor=cdbfff" alt="Bash">
+  <img src="https://img.shields.io/badge/docker-171421?style=flat-square&logo=docker&logoColor=cdbfff" alt="Docker">
+  <img src="https://img.shields.io/badge/alpine-171421?style=flat-square&logo=alpinelinux&logoColor=cdbfff" alt="Alpine Linux">
+  <img src="https://img.shields.io/badge/jellyfin-171421?style=flat-square&logo=jellyfin&logoColor=cdbfff" alt="Jellyfin">
+  <img src="https://img.shields.io/badge/tailscale-171421?style=flat-square&logo=tailscale&logoColor=cdbfff" alt="Tailscale">
+  <img src="https://img.shields.io/badge/git-171421?style=flat-square&logo=git&logoColor=cdbfff" alt="Git">
+  <img src="https://img.shields.io/badge/html5-171421?style=flat-square&logo=html5&logoColor=cdbfff" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-171421?style=flat-square&logo=css3&logoColor=cdbfff" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-171421?style=flat-square&logo=javascript&logoColor=cdbfff" alt="JavaScript">
+</p>
+
+<p align="center">
+  <img src="assets/bar-telemetry.svg" alt="cd ~/enigma/telemetry" width="100%"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=3m44n&show_icons=true&hide_border=true&bg_color=100e18&title_color=cdbfff&icon_color=7cc4ee&text_color=b9b2cc&ring_color=cdbfff&border_radius=14" alt="GitHub stats of 3m44n" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3m44n&layout=compact&hide_border=true&bg_color=100e18&title_color=cdbfff&text_color=b9b2cc&border_radius=14&langs_count=6" alt="Most used languages of 3m44n" width="49%"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3m44n&bg_color=100e18&color=b9b2cc&line=cdbfff&point=f0b8cb&area=true&area_color=7cc4ee&hide_border=true&radius=14&custom_title=signal%20over%20time" alt="Contribution activity graph of 3m44n" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/bar-handshake.svg" alt="cd ~/enigma/handshake" width="100%"><br>
+  <a href="mailto:notximan@proton.me"><img src="assets/btn-mail.svg" alt="Email: notximan@proton.me" width="49%"></a>
+  <a href="https://instagram.com/i.not_iman"><img src="assets/btn-instagram.svg" alt="Instagram: @i.not_iman" width="49%"></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="wassalam. Not every signal is meant to be decoded. End of transmission." width="100%">
+</p>
